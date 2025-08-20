@@ -1,6 +1,6 @@
 body{
-    background-color: black;
-    color: rgb(125, 5, 5);
+    background-color: rgb(212, 52, 114);
+    color: rgb(0, 0, 0);
     margin: 0px;
 }
 
